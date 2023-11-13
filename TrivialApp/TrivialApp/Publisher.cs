@@ -2,16 +2,17 @@
 {
 	internal class Publisher
 	{
-		public event EventHandler? MessagePublished;
-		public void Publish(string str)
+		public event EventHandler<PublisherArgs>? MessagePublished;
+
+		public string? Name { get; set; } = "Adam";
+        public void Publish()
 		{
-			Console.WriteLine(str + " is published!");
 			OnMessagePublished();
 		}
 
 		protected virtual void OnMessagePublished()
 		{
-			MessagePublished.Invoke(this, EventArgs.Empty);
+			MessagePublished.Invoke(this, new PublisherArgs() { PressRelease = "This is the official press release." });
 		}
 	}
 }

@@ -2,9 +2,9 @@
 {
 	internal class Subscriber
 	{
-		public void Subscribe(object sender, EventArgs e)
+		public void Subscribe(object sender, PublisherArgs e)
 		{
-			Console.WriteLine(sender + " has recieved the " + e);
+			Console.WriteLine(sender + " Message: " + e.PressRelease);
 		}
 	}
 }
