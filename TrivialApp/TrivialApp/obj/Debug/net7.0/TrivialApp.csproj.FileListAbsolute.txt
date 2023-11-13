@@ -1,0 +1,14 @@
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\bin\Debug\net7.0\TrivialApp.exe
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\bin\Debug\net7.0\TrivialApp.deps.json
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\bin\Debug\net7.0\TrivialApp.runtimeconfig.json
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\bin\Debug\net7.0\TrivialApp.dll
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\bin\Debug\net7.0\TrivialApp.pdb
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\TrivialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\TrivialApp.AssemblyInfoInputs.cache
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\TrivialApp.AssemblyInfo.cs
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\TrivialApp.csproj.CoreCompileInputs.cache
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\TrivialApp.dll
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\refint\TrivialApp.dll
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\TrivialApp.pdb
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\TrivialApp.genruntimeconfig.cache
+C:\Users\rizwa\IdeaProjects\TrivialApp\TrivialApp\obj\Debug\net7.0\ref\TrivialApp.dll
