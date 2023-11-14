@@ -22,6 +22,15 @@
 			else
 			return null;
 		}
+		set
+		{
+			if (Index == 0)
+				Id = (int)value;
+			else if (Index == 1)
+				Salary = (double)value;
+			else if (Index == 2)
+				Name = (string)value;
+		}
 	}
 }
 
