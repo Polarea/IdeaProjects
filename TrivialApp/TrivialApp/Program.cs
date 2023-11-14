@@ -40,6 +40,10 @@ class TestEmployee
 	{
 		Employee emp = new Employee(1001, 50000, "John");
 		Console.WriteLine($"Employee's name is {emp[2]}, Id is {emp[0]} and salary is {emp[1]}.");
+		emp.Name = "David";
+		emp.Salary = (double)52000;
+		emp.Id = (int)1002;
+		Console.WriteLine($"Employee's name is {emp[2]}, Id is {emp[0]} and salary is {emp[1]}.");
 	}
 }
 
